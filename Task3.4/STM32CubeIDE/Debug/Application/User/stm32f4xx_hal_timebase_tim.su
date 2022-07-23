@@ -1,0 +1,3 @@
+D:/chuyen_nganh/he_nhung/ToughFX/Task3.4/Core/Src/stm32f4xx_hal_timebase_tim.c:42:19:HAL_InitTick	48	static
+D:/chuyen_nganh/he_nhung/ToughFX/Task3.4/Core/Src/stm32f4xx_hal_timebase_tim.c:95:6:HAL_SuspendTick	0	static
+D:/chuyen_nganh/he_nhung/ToughFX/Task3.4/Core/Src/stm32f4xx_hal_timebase_tim.c:107:6:HAL_ResumeTick	0	static
